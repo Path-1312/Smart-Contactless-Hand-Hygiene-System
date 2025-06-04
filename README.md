@@ -1,4 +1,4 @@
-# Smart Contactless Hand Hygiene System
+e# Smart Contactless Hand Hygiene System
 
 This project provides a smart, contactless handwash dispensing system integrated with a hand dryer. The design is built using an Arduino UNO microcontroller and features IR sensors for hand detection, a relay-controlled pump for dispensing liquid soap, and a fan for drying hands. Real-time status updates are displayed on an I2C-based LCD screen.
 
@@ -47,4 +47,7 @@ This project provides a smart, contactless handwash dispensing system integrated
 ![System Photo](Visuals/image.jpg)
 
 ### Demonstration Video
+<video width="600" controls>
+  <source src="Visuals/video.mp4" type="video/mp4">
 [Watch the Video](Visuals/video.mp4)
+</video>
