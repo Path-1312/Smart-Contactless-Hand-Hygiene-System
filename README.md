@@ -44,7 +44,7 @@ This project provides a smart, contactless handwash dispensing system integrated
 
 ## Visuals
 ### Photo of the System
-![System Photo](image.jpg)
+![System Photo](Visuals/image.jpg)
 
 ### Demonstration Video
-[Watch the Video](video.mp4)
+[Watch the Video](Visuals/video.mp4)
