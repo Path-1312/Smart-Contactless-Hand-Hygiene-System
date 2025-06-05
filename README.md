@@ -35,10 +35,10 @@ This project provides a smart, contactless handwash dispensing system integrated
 ---
 
 ## Installation & Usage
-1. Assemble the components as per the circuit diagram in the project documentation.
-2. Upload the Arduino code to the microcontroller.
-3. Power the system using a 12V DC adapter.
-4. Follow on-screen instructions for touchless hand hygiene.
+1. Assemble the components as per the circuit diagram in the project documentation uploaded in the Visuals folder.
+2. Upload the Arduino code to the microcontroller using Arduino IDE software.
+3. Power the system using a 12V DC adapter or directly through your laptop via arduino.
+4. Follow video instructions for touchless hand hygiene.
 
 ---
 
@@ -49,4 +49,6 @@ This project provides a smart, contactless handwash dispensing system integrated
 ### Demonstration Video
 [Watch the Video](Visuals/video.mp4)
 
+### Documentation
+[Document](Visuals/video.mp4)
 
